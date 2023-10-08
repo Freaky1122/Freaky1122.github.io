@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "cn-CN"
-title                    : "Wenqiang Que(阙文强)"
+title                    : "Hi"
 title_separator          : "-"
 name                     : &name "Wenqiang Que"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Wenqiang Que"
+  avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  location         : "Nanjing,China"
+  employer         : a graduate student of NUAA
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "quewenqiang@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Freaky1122"
   google_plus      :
   keybase          :
   instagram        :
